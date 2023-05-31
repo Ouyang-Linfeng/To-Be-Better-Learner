@@ -1,18 +1,18 @@
 In order to use bilibili.com for learning purposes, I created a table to summarize the videos which are worth watching.
 
-- [1.医学（应试）](#1医学应试)
+- [1.应试](#1应试)
   - [1.1大一](#11大一)
     - [1.1.1中医基础理论](#111中医基础理论)
     - [1.1.2中医诊断学](#112中医诊断学)
     - [1.1.3人体解剖学](#113人体解剖学)
-    - [1.1.4组织学与胚胎学](#114组织学与胚胎学)
+    - [1.1.4高等数学](#114高等数学)
 - [2.数学](#2数学)
   - [2.1微积分](#21微积分)
 - [3.编程](#3编程)
 - [4.心理学](#4心理学)
 - [5.语言](#5语言)
 
-## 1.医学（应试）
+## 1.应试
 ### 1.1大一
 #### 1.1.1中医基础理论
 
@@ -30,11 +30,18 @@ In order to use bilibili.com for learning purposes, I created a table to summari
 讲师：霍琨  
 课程时长：31:01:51  
 评价：
-#### 1.1.4组织学与胚胎学
+#### 1.1.4高等数学
+![高等数学](https://i2.hdslb.com/bfs/archive/db56877bf758e92f813c25705b6d5fc0eed20512.jpg)
+链接：https://www.bilibili.com/video/BV1Eb411u7Fw/  
+学校：山东财经大学  
+讲师：宋浩  
+课程时长：76:08:28  
+评价：
 
 ## 2.数学
 
 ### 2.1微积分
+
 ## 3.编程
 
 
